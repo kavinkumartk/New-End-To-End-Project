@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/281869613747995809/models/m-e31958a7ee2f448a90ff19dffeb549d1/artifacts
+creation_timestamp: 1757963658748
+experiment_id: '281869613747995809'
+last_updated_timestamp: 1757963671903
+model_id: m-e31958a7ee2f448a90ff19dffeb549d1
+model_type: null
+name: KNN
+source_run_id: 954a6ddd6c6f4cc78af9696bb5135738
+status: 2
+status_message: null

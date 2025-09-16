@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/models/m-fcb3948d11a44af8adcd98c3d4cfb965/artifacts
+creation_timestamp: 1757964524380
+experiment_id: '772832890427167974'
+last_updated_timestamp: 1757964537690
+model_id: m-fcb3948d11a44af8adcd98c3d4cfb965
+model_type: null
+name: model_GradientBoosting
+source_run_id: 065e6b731c5c4460a5e0fedc42a8a3ed
+status: 2
+status_message: null

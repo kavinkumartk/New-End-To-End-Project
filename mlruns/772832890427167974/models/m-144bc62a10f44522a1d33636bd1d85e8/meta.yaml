@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/models/m-144bc62a10f44522a1d33636bd1d85e8/artifacts
+creation_timestamp: 1757982890083
+experiment_id: '772832890427167974'
+last_updated_timestamp: 1757982903530
+model_id: m-144bc62a10f44522a1d33636bd1d85e8
+model_type: null
+name: model_RandomForest
+source_run_id: 4178c4587e6f416f983eeb1649fb3571
+status: 2
+status_message: null

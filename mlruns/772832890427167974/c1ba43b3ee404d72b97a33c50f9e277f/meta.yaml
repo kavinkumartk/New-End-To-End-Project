@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/c1ba43b3ee404d72b97a33c50f9e277f/artifacts
+deleted_time: 1757984761649
+end_time: 1757982943145
+entry_point_name: ''
+experiment_id: '772832890427167974'
+lifecycle_stage: deleted
+run_id: c1ba43b3ee404d72b97a33c50f9e277f
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757982930502
+status: 3
+tags: []
+user_id: kavin

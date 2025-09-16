@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/281869613747995809/96c65e2f308240d49017353d254b696c/artifacts
+deleted_time: 1757985198947
+end_time: 1757964056418
+entry_point_name: ''
+experiment_id: '281869613747995809'
+lifecycle_stage: deleted
+run_id: 96c65e2f308240d49017353d254b696c
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757964041467
+status: 3
+tags: []
+user_id: kavin

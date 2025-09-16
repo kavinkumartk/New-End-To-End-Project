@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/models/m-8d07143765b64b1d8db50fd7d42cb898/artifacts
+creation_timestamp: 1757985653283
+experiment_id: '772832890427167974'
+last_updated_timestamp: 1757985661464
+model_id: m-8d07143765b64b1d8db50fd7d42cb898
+model_type: null
+name: LogisticRegression
+source_run_id: 8eb8afefcaef48d8b75f4d0abf7994ed
+status: 2
+status_message: null

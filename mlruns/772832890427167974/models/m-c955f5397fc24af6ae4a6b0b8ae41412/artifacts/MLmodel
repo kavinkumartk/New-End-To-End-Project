@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/models/m-c955f5397fc24af6ae4a6b0b8ae41412/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.3.2
+model_id: m-c955f5397fc24af6ae4a6b0b8ae41412
+model_size_bytes: 137149
+model_uuid: m-c955f5397fc24af6ae4a6b0b8ae41412
+prompts: null
+run_id: 29dd0a5b532f414ebc789f5aa8b9353e
+utc_time_created: '2025-09-16 00:35:04.241500'

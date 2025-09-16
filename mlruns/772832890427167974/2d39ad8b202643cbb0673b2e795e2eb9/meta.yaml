@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/2d39ad8b202643cbb0673b2e795e2eb9/artifacts
+deleted_time: 1757984761599
+end_time: 1757964523996
+entry_point_name: ''
+experiment_id: '772832890427167974'
+lifecycle_stage: deleted
+run_id: 2d39ad8b202643cbb0673b2e795e2eb9
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757964510042
+status: 3
+tags: []
+user_id: kavin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/281869613747995809/79fc4c4b015c44ac82d1ddd42b2520c3/artifacts
+deleted_time: 1757985198947
+end_time: 1757964070495
+entry_point_name: ''
+experiment_id: '281869613747995809'
+lifecycle_stage: deleted
+run_id: 79fc4c4b015c44ac82d1ddd42b2520c3
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757964056431
+status: 3
+tags: []
+user_id: kavin

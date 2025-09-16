@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/1b97bc612e6b4255b3b038ff8bb5c4ab/artifacts
+deleted_time: 1757985220785
+end_time: 1757984637100
+entry_point_name: ''
+experiment_id: '772832890427167974'
+lifecycle_stage: deleted
+run_id: 1b97bc612e6b4255b3b038ff8bb5c4ab
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757984630052
+status: 3
+tags: []
+user_id: kavin

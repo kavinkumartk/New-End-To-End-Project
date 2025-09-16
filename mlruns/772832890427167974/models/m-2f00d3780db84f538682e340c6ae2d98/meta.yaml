@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/kavin/OneDrive/Desktop/New%20Task%20End%20to%20End/mlruns/772832890427167974/models/m-2f00d3780db84f538682e340c6ae2d98/artifacts
+creation_timestamp: 1757985679444
+experiment_id: '772832890427167974'
+last_updated_timestamp: 1757985687134
+model_id: m-2f00d3780db84f538682e340c6ae2d98
+model_type: null
+name: SVC
+source_run_id: 56df55e87af74d9189915ebdcd467ac5
+status: 2
+status_message: null
